@@ -1,0 +1,10 @@
+
+1. Tìm kiếm 1 mã nguồn / thư viện LDA trên github, cài đặt và chạy thửu với một tập ngữ liệu tiếng anh :
+        Đặt số topic là 10. In ra màn hình các từ khóa đại diện cho từng topic.
+
+
+
+2. Tìm kiếm 1 mã nguồn/thư viện word2vec cho tiếng Việt trên github, cài đặt và chạy thử:
+
+        Tìm từ đồng nghĩa với một số từ cho trước
+        Đo độ tương đồng giữa 2 câu tiếng Việt
