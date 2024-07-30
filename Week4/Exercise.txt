@@ -1,0 +1,25 @@
+Todo: REading and Implement the following requirement 
+
+1. Baseline on NMT : tensorflow/nmt:https://github.com/tensorflow/nmtTodo: Reading and Implement the following requirement  (show demo on Friday 26/7/2024)
+
+1. Baseline on NMT: tensorflow/nmt: TensorFlow Neural Machine Translation Tutorial (github.com)Links to an external site.
+
+Automatic translation from English sentence to Vietnamese sentence
+Training và testing data: IWSLT 2015
+2. Opensource and demo:
+
+ViNMT: Neural Machine Translation Tookit
+–httpsLinks to an external site.://Links to an external site.github.com/KCDichDaNgu/KC4.0_MultilingualNMTLinks to an external site. 
+
+- Multilingual-NMT documentationLinks to an external site.
+
+Neural Machine Translation System:
+–httpsLinks to an external site.://dichmay.itrithuc.vnLinks to an external site./Links to an external site.
+
+3. Transformer: 
+
+- Mô hình transformer cho Machine TranslationDownload Mô hình transformer cho Machine Translation
+
+4. LLMs: Demo Trans Med Terms Ev - a Hugging Face Space (Standardized medical terminology machine translation)
+
+Link: https://huggingface.co/spaces/phuong123/demo_trans_med_terms_evLinks to an external site.
